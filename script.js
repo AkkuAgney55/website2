@@ -10,7 +10,7 @@ let people = [
     { name: 'Manas', dob: '20/07/0000' },
     { name: 'Nova', dob: '25/04/0000' },
     { name: 'Abeej', dob: '09/10/0000' },
-    { name: 'Stephin', dob: '21/06/2001' },
+    { name: 'Stephin', dob: '22/06/2001' },
     { name: 'Salihh', dob: '29/07/0000' },
     { name: 'Techu', dob: '28/02/0000' },
     { name: 'Chimbu', dob: '24/09/0000' },
